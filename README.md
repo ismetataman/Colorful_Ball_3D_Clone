@@ -1,2 +1,2 @@
 # Colorful_Ball_3D_Clone
-Colorful_Ball_3D_Clone
+Color 3D Ball is newest colors block control game. Avoid the different color type of to obstacles to win. The color 3D is a perfect casual arcade game for all ages. Very easy to play, too hard to master. Protect the ball with your finger while it’s moving forward. Beware of hurdles and cross them efficiently to move forward and pass your levels. Do not touch other colors, that is it. Collect coins or gems to improve the score. You must avoid the color blocks and still make you way ahead of these roadblocks to moving further or further in this colorful journey. 
